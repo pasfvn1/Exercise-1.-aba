@@ -1,0 +1,7 @@
+public class Exercise 1.aba {
+	public static void main (String[] Args){
+		System.out.println (" greu ma prind dar bine");
+		
+	}
+	
+}
